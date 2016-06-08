@@ -1,4 +1,4 @@
-#<h1>Wanher·Lite</h1>
+<h1>Wanher·Lite</h1>
 <code>1. To imitate</code><br />
 <code>Synonyms: resemble, look like, have the appearance of</code>
 
