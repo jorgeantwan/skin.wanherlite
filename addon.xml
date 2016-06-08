@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.wanherlite"
-  version="3.4.2"
+  version="3.4.3"
   name="WanherLite"
   provider-name="Jorge">
 	<requires>
@@ -24,11 +24,12 @@
 		<summary lang="bg_BG">WanherLite от Jorge</summary>
 		<summary lang="ca_ES">WanherLite per Jorge</summary>
 		<summary lang="de_DE">WanherLite von Jorge</summary>
-		<summary lang="en_AU">WanherLite by Jorge</summary>
-		<summary lang="en_GB">WanherLite by Jorge</summary>
-		<summary lang="en_NZ">WanherLite by Jorge</summary>
-		<summary lang="en_US">WanherLite by Jorge</summary>
-		<summary lang="es_ES">WanherLite por Jorge</summary>
+		<summary lang="en_AU">WanherLite by Jorge A. Hernandez</summary>
+		<summary lang="en_GB">WanherLite by Jorge A. Hernandez</summary>
+		<summary lang="en_NZ">WanherLite by Jorge A. Hernandez</summary>
+		<summary lang="en_US">WanherLite by Jorge A. Hernandez</summary>
+		<summary lang="es_ES">WanherLite por Jorge A. Hernandez</summary>
+		<summary lang="es_MX">WanherLite por Jorge A. Hernandez</summary>
 		<summary lang="et_EE">WanherLite autorilt Jorge</summary>
 		<summary lang="fi_FI">Jorgein WanherLite</summary>
 		<summary lang="fr_CA">Mimique par Jorge</summary>
@@ -49,10 +50,12 @@
 		<description lang="bg_BG">WanherLite: Облик за Kodi съдържащ елементи от reFocus и Aeon Nox. Благодарности на  BigNoid и Jeroen.</description>
 		<description lang="ca_ES">WanherLite: Una pell amb tocs de reFocus i d'Aeon Nox. Gràcies a BigNoid i Jeroen.</description>
 		<description lang="de_DE">WanherLite: Eine dreiste Zusammenstellung von Features meiner Lieblings-Skins, darunter Aeon Nox, reFocus und Artic Zephyr.</description>
-		<description lang="en_AU">WanherLite: A shameless amalgamation of features from my favourite skins, including Aeon Nox, reFocus, and Arctic Zephyr.</description>
-		<description lang="en_GB">WanherLite: A shameless amalgamation of features from my favourite skins, including Aeon Nox, reFocus, and Arctic Zephyr.</description>
-		<description lang="en_NZ">WanherLite: A shameless amalgamation of features from my favourite skins, including Aeon Nox, reFocus, and Arctic Zephyr.</description>
-		<description lang="en_US">WanherLite: A shameless amalgamation of features from my favorite skins, including Aeon Nox, reFocus, and Arctic Zephyr.</description>
+		<description lang="en_AU">WanherLite: A Kodi theme designed perfectly for our TV Box's.</description>
+		<description lang="en_GB">WanherLite: A Kodi theme designed perfectly for our TV Box's.</description>
+		<description lang="en_NZ">WanherLite: A Kodi theme designed perfectly for our TV Box's.</description>
+		<description lang="en_US">WanherLite: A Kodi theme designed perfectly for our TV Box's.</description>
+		<description lang="es_ES">WanherLite: Un tema de kodi perfectamente diseñado para nuestras TV Box's.</description>
+		<description lang="es_MX">WanherLite: Un tema de kodi perfectamente diseñado para nuestras TV Box's.</description>
 		<description lang="et_EE">WanherLite on Kodi rüü, mis on saanud mõjutusi reFocus ja Aeon Nox rüüdest. Suured tänud, BigNoid ja Jeroen.</description>
 		<description lang="fr_CA">Mimique : un habillage de Kodi avec des airs de reFocus et d'Aeon Nox grâce à BigNoid et Jeroen.</description>
 		<description lang="fr_FR">WanherLite : un habillage pour Kodi avec des touches d'inspiration de reFocus et Aeon Nox. De grands mercis à BigNoid et Jeroen.</description>
