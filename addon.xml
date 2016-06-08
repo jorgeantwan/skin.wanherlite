@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.wanherlite"
-  version="3.4.1"
+  version="2.0.0"
   name="WanherLite"
   provider-name="Jorge">
 	<requires>
@@ -71,6 +71,6 @@
 		<forum>http://forum.kodi.tv/showthread.php?tid=221728</forum>
 		<website></website>
 		<email></email>
-		<source>https://github.com/braz96/skin.mimic</source>
+		<source>https://github.com/jorgeantwan/wanherlite</source>
 	</extension>
 </addon>
