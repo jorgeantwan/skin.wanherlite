@@ -69,63 +69,63 @@
 					<label>$LOCALIZE[20342]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,Movies.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,Movies.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<item>
 					<label>$LOCALIZE[20343]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,TVShows.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,TVShows.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<item>
 					<label>$LOCALIZE[10006]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,Videos.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,Videos.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<item>
 					<label>$LOCALIZE[2]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,Music.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,Music.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<item>
 					<label>$LOCALIZE[31502]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,LiveTV.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,LiveTV.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<item>
 					<label>$LOCALIZE[13000]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,System.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,System.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<item>
 					<label>$LOCALIZE[10001]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,Apps.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,Apps.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<item>
 					<label>$LOCALIZE[10002]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,Pictures.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,Pictures.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>
 				<!--<item>
 					<label>$LOCALIZE[24027]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>SetProperty(No.Cases,True,home)</onclick>
-					<onclick>SetProperty(Mimic.Temp,Weather.Fallback,home)</onclick>
+					<onclick>SetProperty(WanherLite.Temp,Weather.Fallback,home)</onclick>
 					<onclick>ActivateWindow(1122)</onclick>
 				</item>-->
 			</content>

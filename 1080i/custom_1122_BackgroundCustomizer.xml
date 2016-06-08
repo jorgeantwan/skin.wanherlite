@@ -7,8 +7,8 @@
 		<top>240</top>
 	</coordinates>
 	<include>dialogeffect</include>
-	<onunload condition="!IsEmpty(Skin.String(ItemToEdit.MultiFanart))">Skin.SetString($INFO[Window(Home).Property(Mimic.Temp)],$INFO[Skin.String(ItemToEdit.MultiFanart)])</onunload>
-	<onunload condition="!IsEmpty(Skin.String(ItemToEdit.BGType))">Skin.SetString($INFO[Window(Home).Property(Mimic.BGType)],$INFO[Skin.String(ItemToEdit.BGType)])</onunload>
+	<onunload condition="!IsEmpty(Skin.String(ItemToEdit.MultiFanart))">Skin.SetString($INFO[Window(Home).Property(WanherLite.Temp)],$INFO[Skin.String(ItemToEdit.MultiFanart)])</onunload>
+	<onunload condition="!IsEmpty(Skin.String(ItemToEdit.BGType))">Skin.SetString($INFO[Window(Home).Property(WanherLite.BGType)],$INFO[Skin.String(ItemToEdit.BGType)])</onunload>
 	<onunload>ClearProperty(No.Cases,Home)</onunload>
 	<controls>
 		<include name="DialogBackgroundCommons">
@@ -68,8 +68,8 @@
 					<label>$LOCALIZE[10035]</label>
 					<onclick>Skin.Reset(ItemToEdit.MultiFanart)</onclick>
 					<onclick>Skin.Reset(ItemToEdit.BGType)</onclick>
-					<onclick>Skin.SetString($INFO[Window(Home).Property(Mimic.Temp)],$INFO[Skin.String(ItemToEdit.MultiFanart)])</onclick>
-					<onclick>Skin.SetString($INFO[Window(Home).Property(Mimic.BGType)],$INFO[Skin.String(ItemToEdit.BGType)])</onclick>
+					<onclick>Skin.SetString($INFO[Window(Home).Property(WanherLite.Temp)],$INFO[Skin.String(ItemToEdit.MultiFanart)])</onclick>
+					<onclick>Skin.SetString($INFO[Window(Home).Property(WanherLite.BGType)],$INFO[Skin.String(ItemToEdit.BGType)])</onclick>
 					<onclick>Dialog.Close(1122)</onclick>
 				</item>
 				<item>
